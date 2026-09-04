@@ -1,16 +1,52 @@
-## Hi there 👋
+              👋 Greetings, I am
+        Christopher Joseph V. Aureo
+          Software Developer & IT Student
 
-<!--
-**azure-cj/azure-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       [ GitHub ] [ Portfolio ] [ Email ]
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 ABOUT ME
+Short introduction...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏗️ WHAT I BUILT
+
+┌─────────────────────┐ ┌─────────────────────┐
+│ 🏫 Discipline       │ │ 📄 Good Moral       │
+│ Office System       │ │ Certificate System  │
+└─────────────────────┘ └─────────────────────┘
+
+┌─────────────────────┐ ┌─────────────────────┐
+│ 🌊 AquaLogic        │ │ 💪 FitManage        │
+│ IoT Aquarium        │ │ Gym Management      │
+└─────────────────────┘ └─────────────────────┘
+
+┌─────────────────────┐ ┌─────────────────────┐
+│ 🎨 Color Detector   │ │ 🖥️ PC Part Picker  │
+└─────────────────────┘ └─────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TECH STACK
+[ PHP ] [ Python ] [ Kotlin ] [ React ] ...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ HOW I DEVELOP
+Understand → Plan → Build → Test → Deploy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+              📊 GITHUB STATS
+        [ Contributions / Stats ]
+        [ Languages ] [ Streak ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 OPEN TO OPPORTUNITIES
+
+        🌐 Portfolio
+        💻 GitHub
+        📧 Email
