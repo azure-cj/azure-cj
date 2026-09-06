@@ -34,13 +34,19 @@ Some of the systems I've built were developed for our university to help improve
 <td width="50%" valign="top">
 
 ### Good Moral Certificate System
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+
 Web-based request and processing system that streamlines Good Moral Certificate requests for students.
+
+[![View Website](https://img.shields.io/badge/View%20Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://gmc-web-nufv.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### Lost and Found Management System
 Digital system to organize, monitor, and manage lost and found items within the campus community.
+
+[![View Website](https://img.shields.io/badge/View%20Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://nufv-lostandfound.vercel.app/)
 
 </td>
 </tr>
@@ -128,7 +134,7 @@ My usual development process:
 
 </div>
 
-
+I also use AI tools as development assistants for brainstorming, planning, debugging, learning, and reviewing ideas — while staying fully involved in understanding and validating the resulting code.
 
 ---
 
@@ -141,7 +147,7 @@ I'm currently **open to internship opportunities** in:
 - Full-Stack Development
 - Backend Development
 - IT / Software Engineering
-
+- IoT Development
 
 I'm especially interested in opportunities where I can work with experienced developers, contribute to real projects, and continue growing as a software developer.
 
