@@ -134,22 +134,13 @@ My usual development process:
 
 </div>
 
-I also use AI tools as development assistants for brainstorming, planning, debugging, learning, and reviewing ideas — while staying fully involved in understanding and validating the resulting code.
+I also use AI tools as development assistants for brainstorming, planning, debugging, learning, and reviewing ideas while staying fully involved in understanding and validating the resulting code.
 
 ---
 
 ## Currently Looking For
 
-I'm currently **open to internship opportunities** in:
-
-- Software Development
-- Web Development
-- Full-Stack Development
-- Backend Development
-- IT / Software Engineering
-- IoT Development
-
-I'm especially interested in opportunities where I can work with experienced developers, contribute to real projects, and continue growing as a software developer.
+I'm hoping to find an internship in **software or web development**, where I can keep learning, gain real-world experience, and grow as a developer.
 
 ---
 
