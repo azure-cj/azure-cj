@@ -1,14 +1,11 @@
 <div align="center">
 
-# Christopher Joseph V. Aureo
-
 ### Software Developer & IT Student
 
 *Building practical software that solves real-world problems and helps people.*
 
 [![Email](https://img.shields.io/badge/Email-aureojoseph518%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aureojoseph518@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-azure--cj-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/azure-cj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat-square)](#currently-looking-for)
 
 </div>
@@ -23,7 +20,6 @@ I enjoy turning ideas and requirements into functional applications — from web
 
 Some of the systems I've built were developed for our university to help improve existing processes, including systems for the **Discipline Office**, **Good Moral Certificate** processing, and **Lost and Found** management.
 
-> Currently **open to internship opportunities** where I can contribute my skills, learn from experienced developers, and gain professional experience in software development.
 
 ---
 
@@ -136,13 +132,6 @@ My usual development process:
 
 I also use AI tools as development assistants for brainstorming, planning, debugging, learning, and reviewing ideas while staying fully involved in understanding and validating the resulting code.
 
----
-
-## Currently Looking For
-
-I'm hoping to find an internship in **software or web development**, where I can keep learning, gain real-world experience, and grow as a developer.
-
----
 
 <div align="center">
 
@@ -151,6 +140,5 @@ I'm hoping to find an internship in **software or web development**, where I can
 [![GitHub](https://img.shields.io/badge/GitHub-azure--cj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azure-cj)
 [![Gmail](https://img.shields.io/badge/Email-aureojoseph518%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aureojoseph518@gmail.com)
 
-*Feel free to reach out if you'd like to connect or discuss an opportunity.*
 
 </div>
